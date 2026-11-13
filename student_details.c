@@ -97,7 +97,10 @@ void student_AISHWARYA_V_GUJJAR() {
 }
 
 void student_AMULYA_K() {
-    printf("AMULYA K is absent\n");
+    printf("AMULYA K is present\n");
+    printf("USN : 4JN25CS012\n");
+    printf("Phone number: 9353057171\n");
+    printf("Address : Bhadravathi\n");
 }
 
 void student_AMULYA_P() {
@@ -133,7 +136,10 @@ void student_ANUSHA_RAMAPPA_LA() {
 }
 
 void student_APEKSHA_D_H() {
-    printf("APEKSHA D H is absent\n");
+    printf("APEKSHA D H is present\n");
+     printf("USN : 4JN25CS020\n");
+    printf("Phone number: 9180545235\n");
+    printf("Address : Bhadravathi\n");
 }
 
 void student_APOORVA_A() {
@@ -193,7 +199,10 @@ void student_BHOOMIKA_T_MOHITHA() {
 }
 
 void student_BHUMIKA_D() {
-    printf("BHUMIKA D is absent\n");
+    printf("BHUMIKA D is present\n");
+    printf("USN : 4JN25CS035\n");
+    printf("Phone number: 6363583413\n");
+    printf("Address : Shivamogga\n");
 }
 
 void student_BHUVANA_T_M() {
