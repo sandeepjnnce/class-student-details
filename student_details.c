@@ -129,7 +129,7 @@ void student_ANUSH_G_S() {
 }
 
 void student_ANUSHA_RAMAPPA_LA() {
-    printf("ANUSHA RAMAPPA LA is absent\n");
+    printf("ANUSHA RAMAPPA LA is present\n");
 }
 
 void student_APEKSHA_D_H() {
@@ -197,7 +197,7 @@ void student_BHUMIKA_D() {
 }
 
 void student_BHUVANA_T_M() {
-    printf("BHUVANA T M is absent\n");
+    printf("BHUVANA T M is present\n");
 }
 
 void student_BINDU_P_S() {
