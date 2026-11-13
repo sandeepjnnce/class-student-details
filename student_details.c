@@ -42,7 +42,8 @@ void student_AHMED_RAZA() {
 }
 
 void student_SYEDA_ROZATH_BANU() {
-    printf("SYEDA ROZATH BANU is absent\n");
+    printf("SYEDA ROZATH BANU is present\n");
+    printf("261369\n")
 }
 
 void student_AMRUTH_N_V() {
@@ -213,10 +214,7 @@ void student_BINDU_S() {
 }
 
 void student_BRUNDA_G() {
-    printf("BRUNDA G is present\n");
-    printf("Name: Brunda G\n");
-    printf("Email: gbrunda2007@gmail.com\n");
-    printf("Address: Shivamogga, Karnataka, India\n");
+    printf("BRUNDA G is absent\n");
 }
 
 void student_CHAITANYA_R_B() {
