@@ -285,7 +285,10 @@ void student_CHETHAN_KUMAR_S_G() {
 }
 
 void student_CHINMAI_H_A() {
-    printf("CHINMAI H A is absent\n");
+    printf("CHINMAI H A is present\n");
+    printf("USN : 4JN25CS035\n");
+    printf("Phone number: 6363583413\n");
+    printf("Address : Shimoga\n");
 }
 
 void student_CHINMAY_HEGDE_B_C() {
