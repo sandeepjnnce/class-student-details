@@ -76,7 +76,8 @@ void student_ADITHYA_S() {
 }
 
 void student_ADITI_D_U() {
-    printf("ADITI D U is absent\n");
+    printf("ADITI D U is present\n");
+    printf("4JN25CS006");
 }
 
 void student_ADWAITH_RAO_T_D() {
