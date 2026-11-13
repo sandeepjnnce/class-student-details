@@ -61,7 +61,7 @@ void student_A_S_KAVERI() {
 }
 
 void student_ABHINAVI_H_R() {
-    printf("ABHINAVI H R is absent\n");
+    printf("ABHINAVI H R is present\n");
 }
 
 void student_ADITHI_S_SHET() {
@@ -109,7 +109,7 @@ void student_AMULYA_S() {
 }
 
 void student_AMULYA_S_M() {
-    printf("AMULYA S M is absent\n");
+    printf("AMULYA S M is present\n");
 }
 
 void student_ANAND_SADASHIV_ANK() {
@@ -145,7 +145,7 @@ void student_ARSHIYA_KHANUM() {
 }
 
 void student_AVANI_K_S() {
-    printf("AVANI K S is absent\n");
+    printf("AVANI K S is present\n");
 }
 
 void student_AVANI_L() {
@@ -217,7 +217,7 @@ void student_CHAITANYA_R_B() {
 }
 
 void student_CHANDAN_C() {
-    printf("CHANDAN C is absent\n");
+    printf("CHANDAN C is present\n");
 }
 
 void student_CHANDANA_K_P() {
@@ -277,7 +277,7 @@ void student_DARSHAN_L_S() {
 }
 
 void student_DASHAMI_D_M() {
-    printf("DASHAMI D M is absent\n");
+    printf("DASHAMI D M is present\n");
 }
 
 void student_PREETHAM_P() {
