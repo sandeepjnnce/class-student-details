@@ -192,8 +192,12 @@ void student_BHOOMIKA_S_V() {
     printf("BHOOMIKA S V is absent\n");
 }
 
-void student_BHOOMIKA_T_MOHITHA() {
-    printf("BHOOMIKA T MOHITHA is absent\n");
+void student_BHOOMIKA_T_MOHITHAE() {
+    printf("BHOOMIKA T MOHITHAE is present\n");
+    printf("NAME: Bhoomika T Mohithae");
+    printf("email: bhoomikats17@gmail.com");
+    printf("Phone:7483938699");
+    printf("Adress: vidyanagara shimoga");
 }
 
 void student_BHUMIKA_D() {
@@ -340,7 +344,7 @@ int main() {
     student_BHOOMIKA_H_A();
     student_BHOOMIKA_M_L();
     student_BHOOMIKA_S_V();
-    student_BHOOMIKA_T_MOHITHA();
+    student_BHOOMIKA_T_MOHITHAE();
     student_BHUMIKA_D();
     student_BHUVANA_T_M();
     student_BINDU_P_S();
