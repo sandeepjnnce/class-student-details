@@ -251,10 +251,10 @@ void student_CHANDANA_K_P() {
 
 void student_CHANDANA_R() {
     printf("CHANDANA R is present\n
-            Name:Chandana R
-            USN:4JN25CS044
-            Section:3rd A
-            Phone number: 9110855728");
+            Name:Chandana R\n
+            USN:4JN25CS044\n
+            Section:3rd A\n
+            Phone number: 9110855728\n");
 }
 
 void student_CHANDANA_S() {
