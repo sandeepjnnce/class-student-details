@@ -141,7 +141,10 @@ void student_APOORVA_A() {
 }
 
 void student_ARSHIYA_KHANUM() {
-    printf("ARSHIYA KHANUM is absent\n");
+    printf("ARSHIYA KHANUM is present\n");
+    printf("USN: 4JN25CS022\n");
+    printf("Phone number: 7259682308 \n");
+    printf("Address: Channagiri\n");
 }
 
 void student_AVANI_K_S() {
