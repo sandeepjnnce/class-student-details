@@ -89,7 +89,9 @@ void student_AISHWARYA_R() {
 }
 
 void student_AISHWARYA_S_H() {
-    printf("AISHWARYA S H is absent\n");
+    printf(" Name : AISHWARYA S H \n");
+    printf("USN: 4JN25CS010 \n");
+    printf("Email: aishgowda06@gmail.com\n");
 }
 
 void student_AISHWARYA_V_GUJJAR() {
