@@ -258,9 +258,10 @@ void student_CHANDANA_R() {
 }
 
 void student_CHANDANA_S() {
-    printf("CHANDANA S is absent\n");
+    printf("CHANDANA S is present\n");
+    printf("USN:    4JN25CS045\n");
+    printf("Adress: Shimoga, Karnataka\n");
 }
-
 void student_CHANDANA_S_H() {
     printf("CHANDANA S H is absent\n");
 }
