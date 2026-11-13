@@ -153,7 +153,10 @@ void student_AVANI_L() {
 }
 
 void student_AYATHUNNISA() {
-    printf("AYATHUNNISA is absent\n");
+    printf("AYATHUNNISA is present\n");
+    printf("USN:4JN25CS025\n");
+    printf("Phone Number:8431622625\n");
+    printf("Address:Shimoga\n");
 }
 
 void student_AZRA_RAHMAN() {
