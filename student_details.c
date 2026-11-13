@@ -55,7 +55,11 @@ void student_BHARATH_G_V() {
 }
 
 void student_POOJA_S_G() {
-    printf("POOJA S G is absent\n");
+    printf("POOJA S G is present\n");
+    printf("USN : 4JN24CS115\n");
+    printf("CLASS: 3A");
+    printf("PHONE NO. : 6361294112\n");
+        
 }
 
 void student_A_S_KAVERI() {
@@ -126,7 +130,10 @@ void student_ANAND_SADASHIV_ANK() {
 }
 
 void student_ANKITA_SHARMA() {
-    printf("ANKITA SHARMA is absent\n");
+    printf("ANKITA SHARMA is present.\n");
+    printf("USN : 4JN25CS016\n");
+    printf("CLASS: 3A");
+    printf("PHONE NO. : 8493095648\n");
 }
 
 void student_ANNAPURNA_S() {
