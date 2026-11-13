@@ -78,7 +78,8 @@ void student_ADITHYA_S() {
 }
 
 void student_ADITI_D_U() {
-    printf("ADITI D U is absent\n");
+    printf("ADITI D U is present\n");
+    printf("4JN25CS006\n");
 }
 
 void student_ADWAITH_RAO_T_D() {
@@ -250,11 +251,7 @@ void student_CHANDANA_K_P() {
 }
 
 void student_CHANDANA_R() {
-    printf("CHANDANA R is present\n
-            Name:Chandana R\n
-            USN:4JN25CS044\n
-            Section:3rd A\n
-            Phone number: 9110855728\n");
+    printf("CHANDANA R is absent\n");
 }
 
 void student_CHANDANA_S() {
