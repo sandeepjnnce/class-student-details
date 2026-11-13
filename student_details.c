@@ -133,7 +133,6 @@ void student_ANKITA_SHARMA() {
     printf("ANKITA SHARMA is present.\n");
     printf("USN : 4JN25CS016\n");
     printf("CLASS: 3A");
-    printf("PHONE NO. : 8493095648\n");
 }
 
 void student_ANNAPURNA_S() {
