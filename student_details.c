@@ -87,7 +87,8 @@ void student_ADYA_DINESH_GOWDA() {
 }
 
 void student_AISHWARYA_R() {
-    printf("AISHWARYA R is absent\n");
+    printf("AISHWARYA R is present \n");
+    printf("USN:4JN25CS009"); 
 }
 
 void student_AISHWARYA_S_H() {
