@@ -17,7 +17,8 @@ void student_HARSHITHA_T_N() {
 }
 
 void student_BI_BI_HAJIRA() {
-    printf("BI BI HAJIRA is absent\n");
+    printf("BI BI HAJIRA is Present\n");
+    printf("260621");
 }
 
 void student_C_S_GAGANA() {
