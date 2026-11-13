@@ -239,6 +239,9 @@ void student_BRUNDA_G() {
 void student_CHAITANYA_R_B() {
     printf("CHAITANYA R B is absent\n");
 }
+void student_CHAITHANYA_H_D(){
+    printf("CHAITHANYA H D is present\n USN:4JN25CS041\n Email id: chaithanyahd711@gmail.com\n");
+}
 
 void student_CHANDAN_C() {
     printf("CHANDAN C is absent\n");
