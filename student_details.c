@@ -181,7 +181,7 @@ void student_BHOOMIKA_H_A() {
 }
 
 void student_BHOOMIKA_M_L() {
-    printf("BHOOMIKA M L is absent\n");
+    printf("BHOOMIKA M L is present\n");
 }
 
 void student_BHOOMIKA_S_V() {
