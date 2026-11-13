@@ -250,7 +250,11 @@ void student_CHANDANA_K_P() {
 }
 
 void student_CHANDANA_R() {
-    printf("CHANDANA R is absent\n");
+    printf("CHANDANA R is present\n
+            Name:Chandana R
+            USN:4JN25CS044
+            Section:3rd A
+            Phone number: 9110855728");
 }
 
 void student_CHANDANA_S() {
