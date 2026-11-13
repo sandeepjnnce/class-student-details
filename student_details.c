@@ -169,7 +169,10 @@ void student_AVANI_L() {
 }
 
 void student_AYATHUNNISA() {
-    printf("AYATHUNNISA is absent\n");
+    printf("AYATHUNNISA is present\n");
+    printf("USN:4JN25CS025\n");
+    printf("Phone:8431622625\n");
+    printf("Address:Shimoga");
 }
 
 void student_AZRA_RAHMAN() {
@@ -286,8 +289,8 @@ void student_CHETHAN_KUMAR_S_G() {
 
 void student_CHINMAI_H_A() {
     printf("CHINMAI H A is present\n");
-    printf("USN : 4JN25CS035\n");
-    printf("Phone number: 6363583413\n");
+    printf("USN : 4JN25CS051\n");
+    printf("Phone number: 8310645998\n");
     printf("Address : Shimoga\n");
 }
 
